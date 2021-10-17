@@ -34,8 +34,10 @@
 <img src="https://img.shields.io/badge/Discord API-7289DA?style=for-the-badge&logo=discord&logoColor=white">
 <img src="https://img.shields.io/badge/Piña++-3776AB?style=for-the-badge&logo=python&logoColor=white">
  
- <p></p>
+<p></p>
  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=x04000&theme=blue-green">
+ 
+<h1>💿 SO 💿</h1>
  
 </div>
