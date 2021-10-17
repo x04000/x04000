@@ -8,7 +8,7 @@
 
 <p>🔥 Still a student 🔥</p>
  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=x04000&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=x04000&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
  
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"> 
 </div>
