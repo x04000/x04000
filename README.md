@@ -1,6 +1,6 @@
 <h1>x04000</h1>
 
-<h1>Welcome to my games</h1>
+<h1>Hello world! <img src="https://media.giphy.com/media/58bRXhtksCaOqmOrZp/giphy.gif" width="25px"></h1> 
 
 <p>⚡ Love programation ⚡</p>
 <p>💫 Love cybersecurity 💫</p>
