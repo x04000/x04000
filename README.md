@@ -27,7 +27,7 @@
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white">
 <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
-<img src="https://img.shields.io/badge/Bash-404D59?style=for-the-badge">
+<img src="https://camo.githubusercontent.com/b143b7b885ddd10a2a8102a5556ea322c768f81b0c1d4a768eac43a32d3a61e0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f426173682d3445414132353f7374796c653d666f722d7468652d6261646765266c6f676f3d676e752d62617368266c6f676f436f6c6f723d7768697465">
 <img src="https://img.shields.io/badge/Batch-404D59?style=for-the-badge">
 <img src="https://img.shields.io/badge/VBS-404D59?style=for-the-badge">
 <img src="https://img.shields.io/badge/Termux-404D59?style=for-the-badge">
