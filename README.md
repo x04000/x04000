@@ -9,8 +9,10 @@
 <p>🔥 Still a student 🔥</p>
  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=x04000&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
- 
- <h1>🔮 Languages 🔮</h1>
+
+<img src="https://img.shields.io/github/followers/x04000.svg?style=social&label=Follow&maxAge=2592000">
+
+<h1>🔮 Languages 🔮</h1>
  
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -45,12 +47,5 @@
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
 <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white">
 <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white">
-
-<img src="https://img.shields.io/github/downloads/x04000/{repo-name}/total.svg">
-<img src="https://img.shields.io/github/forks/{username}/{repo-name}.svg">
-<img src="https://img.shields.io/github/stars/{username}/{repo-name}.svg">
-<img src="https://img.shields.io/github/watchers/{username}/{repo-name}.svg">
-<img src="https://img.shields.io/github/followers/{username}.svg?style=social&label=Follow&maxAge=2592000">
-
 
 </div>
