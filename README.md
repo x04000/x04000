@@ -12,6 +12,10 @@
 
 <img src="https://img.shields.io/github/followers/x04000.svg?style=social&label=Follow&maxAge=2592000">
 
+<h1>Best proyects <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif"></h1>
+<p>PineappleDev <img src="https://media.giphy.com/media/2FazrQFldulr3dUqI/giphy.gif"></p>
+<a href="https://github.com/x04000/PineappleKiller"><p>PineappleKiller <img src="https://media.giphy.com/media/26BRKRABuRCtFVre8/giphy.gif"></p></a>
+ 
 <h1>🔮 Languages 🔮</h1>
  
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
