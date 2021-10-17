@@ -45,5 +45,12 @@
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
 <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white">
 <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white">
- 
+
+<img src="https://img.shields.io/github/downloads/x04000/{repo-name}/total.svg">
+<img src="https://img.shields.io/github/forks/{username}/{repo-name}.svg">
+<img src="https://img.shields.io/github/stars/{username}/{repo-name}.svg">
+<img src="https://img.shields.io/github/watchers/{username}/{repo-name}.svg">
+<img src="https://img.shields.io/github/followers/{username}.svg?style=social&label=Follow&maxAge=2592000">
+
+
 </div>
