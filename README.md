@@ -57,7 +57,7 @@
 
 <p></p>
  
-<h1>I have a discord server!</h1>
+<h1>✨ I have a discord server! ✨</h1>
  
 <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
 <p></p>
