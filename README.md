@@ -25,7 +25,15 @@
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white">
 <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
-
+<img src="https://img.shields.io/badge/Bash-404D59?style=for-the-badge">
+<img src="https://img.shields.io/badge/Batch-404D59?style=for-the-badge">
+<img src="https://img.shields.io/badge/VBS-404D59?style=for-the-badge">
+<img src="https://img.shields.io/badge/Termux-404D59?style=for-the-badge">
+<img src="https://img.shields.io/badge/Arduino-404D59?style=for-the-badge">
+<img src="https://img.shields.io/badge/JSON-404D59?style=for-the-badge">
+<img src="https://img.shields.io/badge/Discord API-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+<img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white">
+ 
  <p></p>
  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=x04000&theme=blue-green">
