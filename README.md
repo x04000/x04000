@@ -53,3 +53,7 @@
 <img src="http://ForTheBadge.com/images/badges/built-with-love.svg">
  
 </div>
+
+<!--
+Some of the things were taken out of the readme of SkyWtkh
+-->
