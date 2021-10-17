@@ -1,6 +1,5 @@
-<h1>x04000</h1>
-
-<h1>Hello world! <img src="https://media.giphy.com/media/58bRXhtksCaOqmOrZp/giphy.gif" width="25px"></h1> 
+<div align="center"> 
+<h1>Welcome to my games <img src="https://media.giphy.com/media/58bRXhtksCaOqmOrZp/giphy.gif" width="25px"></h1> 
 
 <p>⚡ Love programation ⚡</p>
 <p>💫 Love cybersecurity 💫</p>
@@ -10,3 +9,4 @@
 <p>Still a student</p>
 
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"> 
+</div>
