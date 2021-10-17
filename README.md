@@ -13,8 +13,9 @@
 <img src="https://img.shields.io/github/followers/x04000.svg?style=social&label=Follow&maxAge=2592000">
 
 <h1>Best proyects <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="25px"></h1>
-<p>PineappleDev <img src="https://media.giphy.com/media/2FazrQFldulr3dUqI/giphy.gif" width="25px"></p>
+<a href="https://github.com/x04000/PineappleDev"><p>PineappleDev <img src="https://media.giphy.com/media/l46CcwlF9uJMic480/giphy.gif" width="25px"></p></a>
 <a href="https://github.com/x04000/PineappleKiller"><p>PineappleKiller <img src="https://media.giphy.com/media/26BRKRABuRCtFVre8/giphy.gif" width="25px"></p></a>
+<a href="https://github.com/x04000/JS-InjectionPineappleKiller"><p>JS-InjectionPineappleKiller <img src="https://media.giphy.com/media/ZJVUmhCBDJ8kvQ9K06/giphy.gif" width="25px"></p></a>
  
 <h1>🔮 Languages 🔮</h1>
  
