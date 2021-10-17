@@ -51,6 +51,11 @@
 <p></p>
  
 <img src="http://ForTheBadge.com/images/badges/built-with-love.svg">
+
+<p></p>
+ 
+<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+<a href=https://discord.gg/VAkpzerxPH"></a>
  
 </div>
 
