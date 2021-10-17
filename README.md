@@ -61,7 +61,7 @@
  
 <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
 <p></p>
-<a href="https://discord.gg/VAkpzerxPH">Server</a>
+<a href="https://discord.gg/VAkpzerxPH">🧊 Server 🧊</a>
  
 </div>
 
