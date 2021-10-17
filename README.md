@@ -28,6 +28,6 @@
 
  <p></p>
  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username={x04000}&theme=blue-green">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=x04000&theme=blue-green">
  
 </div>
