@@ -54,7 +54,10 @@
 
 <p></p>
  
-<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" href="https://discord.gg/VAkpzerxPH">
+<h1>I have a discord server!</h1>
+ 
+<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+<p href="https://discord.gg/VAkpzerxPH">Server</p>
  
 </div>
 
