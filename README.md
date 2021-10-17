@@ -29,10 +29,10 @@
 <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
 <img src="https://camo.githubusercontent.com/b143b7b885ddd10a2a8102a5556ea322c768f81b0c1d4a768eac43a32d3a61e0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f426173682d3445414132353f7374796c653d666f722d7468652d6261646765266c6f676f3d676e752d62617368266c6f676f436f6c6f723d7768697465">
 <img src="https://img.shields.io/badge/Batch-404D59?style=for-the-badge">
-<img src="https://img.shields.io/badge/VBS-404D59?style=for-the-badge">
+<img src="https://img.shields.io/badge/JSON-7C7979?style=for-the-badge&logo=json&logoColor=white">
 <img src="https://img.shields.io/badge/Termux-404D59?style=for-the-badge">
 <img src="https://img.shields.io/badge/Arduino-404D59?style=for-the-badge">
-<img src="https://img.shields.io/badge/JSON-404D59?style=for-the-badge">
+<img src="https://img.shields.io/badge/VBS-404D59?style=for-the-badge">
 <img src="https://img.shields.io/badge/Discord API-7289DA?style=for-the-badge&logo=discord&logoColor=white">
 <img src="https://img.shields.io/badge/Piña++-3776AB?style=for-the-badge&logo=python&logoColor=white">
  
