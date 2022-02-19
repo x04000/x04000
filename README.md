@@ -34,6 +34,7 @@
 <img src="https://img.shields.io/badge/Batch-404D59?style=for-the-badge">
 <img src="https://img.shields.io/badge/VBS-404D59?style=for-the-badge">
 <img src="https://img.shields.io/badge/Piña++-3776AB?style=for-the-badge&logo=python&logoColor=white">
+ <img src="https://img.shields.io/badge/Polla+++-3776AB?style=for-the-badge&logo=python&logoColor=white">
  
 <p></p>
  
